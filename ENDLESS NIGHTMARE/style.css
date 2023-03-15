@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/*pagina*/
+
+/*conteudo*/
+body{
+    text-align: center;
+    padding-top: 160px;
+    background-image: url(https://i.ibb.co/K7V2z50/background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    height: 100vh;
+    
+}
+
+h3 span{
+    color: #FFC700;
+}
+
+h3{
+    color: #FFFFFF;
+}
+
+h1{
+    color:#FFC700;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80px;
+}
+
+p{
+    color: rgb(255, 255, 255, 70%);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 72px;
+}
+
+a{
+    padding: 12px 32px;
+    font-weight: 700;
+    line-height: 24px;
+    font-size: 20px;
+}
+
+a:hover,
+.button-play{
+    color: black;
+    text-decoration: none;
+    background-color: #FFC700;
+}*{
+    box-sizing: border-box;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; 
+} 
+
+/*pagina*/
+
+/*conteudo*/
+body{
+    text-align: center;
+    padding-top: 160px;
+    background-image: url(https://i.ibb.co/K7V2z50/background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    height: 100vh;
+    font-family: 'Inter', sans-serif;
+}
+
+h3 span{
+    color: #FFC700;
+}
+
+h3{
+    color: #FFFFFF;
+}
+
+h1{
+    color:#FFC700;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80px;
+
+    font-family: 'Emilys Candy', cursive;
+}
+
+p{
+    color: rgb(255, 255, 255, 70%);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 72px;
+}
+
+a{
+    color: rgb(255, 255, 255, 0.6);
+    padding: 12px 32px;
+    font-weight: 700;
+    line-height: 24px;
+    font-size: 20px;
+}
+
+a:hover,
+.button-play{
+    color: black;
+    text-decoration: none;
+    background-color: #FFC700;
+}

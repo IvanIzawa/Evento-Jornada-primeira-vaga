@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/*pagina*/
+
+/*conteudo*/
+body{
+    text-align: center;
+    padding: 200px;
+    background-image: url(https://i.ibb.co/prXdC39/background-image-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    height: 100vh;
+    font-family: 'Cinzel', sans-serif;
+}
+
+
+h1 span{
+    color: #DB2777;
+}
+h1{
+    color: #151718;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 86px;
+}
+
+p{
+    font-weight: 400;
+    font-size: 20px;
+    color: #2C2E2F;
+    line-height: 24px;
+    margin-bottom: 72px;
+
+    font-family: 'Inter', sans-serif;
+}
+
+a{
+  padding: 16px 32px; 
+  text-decoration: none;
+  color: #151718;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+a:hover{
+  text-decoration: none;
+  color: white;
+  background-color: #DB2777;
+  border-radius: 80px;
+}
